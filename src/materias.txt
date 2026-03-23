@@ -1,0 +1,3 @@
+Programación I;Andrea Gómez;3
+Matemáticas II;Luis Torres;2
+Física Básica;María Ruiz;3

@@ -1,0 +1,6 @@
+# Ignorar archivos generados por Python
+__pycache__/
+*.py[cod]
+
+# Ignorar el reporte generado (se crea en src)
+src/horario.txt

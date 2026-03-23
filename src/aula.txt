@@ -1,0 +1,2 @@
+Aula 101;Lunes 8:00 - 14:00,Martes 14:00 - 18:00
+Aula 202;Miércoles 10:00 - 16:00,Jueves 8:00 - 10:00
