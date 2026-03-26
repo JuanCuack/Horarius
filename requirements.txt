@@ -1,0 +1,8 @@
+# Horarius - Sistema de Automatización de Horarios (TXT Engine)
+# Este proyecto utiliza 100% Python Standard Library.
+
+# Herramientas de empaquetado (para crear el .exe del script)
+pyinstaller==6.5.0
+
+# Calidad de código (PEP8)
+flake8==7.1.0
