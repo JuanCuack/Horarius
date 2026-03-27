@@ -52,16 +52,16 @@ El sistema garantiza una planificación eficiente mediante algoritmos de validac
     ```text
     Horarius/
     ├── main.py              # Script principal (Lógica de negocio)
-    ├── LICENSE              # Archivo de términos legales
+    ├── LICENSE              # Archivo de términos legales (MIT)
     ├── .gitignore           # Configuración de exclusión de Git
     ├── README.md            # Documentación del proyecto
     ├── assets/              # Recursos visuales del repositorio
     │    └── Preview.png     # Captura de pantalla de la solución
-    └── src/                 # Carpeta de recursos y datos
-        ├── aula.txt         # Configuración de salones
-        ├── docentes.txt     # Disponibilidad del personal
-        ├── materias.txt     # Requerimientos académicos
-        └── horario.txt      # Reporte generado (Output)
+    └── src/                 # Carpeta de recursos y datos (Obligatoria)
+        ├── aula.txt         # Configuración de salones y capacidades
+        ├── docentes.txt     # Disponibilidad y carga docente
+        ├── materias.txt     # Requerimientos y horas académicas
+        └── horario.txt      # Reporte generado automáticamente (Output)
     ```
 3.  **Ejecuta la aplicación:**
     ```bash
